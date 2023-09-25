@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+body h1, h2, h3, h4, h5{
+  font-weight: bold;
+  color: #2c2c2c;
+  letter-spacing: .05em;
+  text-shadow:
+          2px 2px 0px #d5d5d5,
+          3px 3px 0px rgba(0, 0, 0, 0.2);
+}
+body h1{
+  font-size: 5em;
+}
+
+body h2{
+  font-size: 3em;
+}
+
+body h3{
+  font-size: 2em;
+}
+
+Nav.Link{
+  font-size: 1.3em;
+}
+
+body p{
+  padding-top: 1em;
+  font-size: 1.3em;
+}
+
+body li{
+  padding-top: 0.5em;
+  font-size: 1.3em;
+}
+
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

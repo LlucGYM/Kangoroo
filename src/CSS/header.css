@@ -1,0 +1,42 @@
+.Header{
+    /* Fijar la imagen de fondo este vertical y
+      horizontalmente y centrado */
+    display: flex;
+
+    background-position: center center;
+
+    /* Esta imagen no debe de repetirse */
+    background-repeat: no-repeat;
+
+    /* COn esta regla fijamos la imagen en la pantalla. */
+    background-attachment: fixed;
+
+    /* La imagen ocupa el 100% y se reescala */
+    background-size: cover;
+
+    /* Damos un color de fondo mientras la imagen está cargando  */
+    background-color: #e1fff9;
+    height: 100vh;
+}
+.Header .container{
+    margin: auto;
+}
+
+.HeaderTitle{
+    color: transparent;
+    position: relative;
+    transform: translate(0px,-200px);
+
+}
+
+
+.HeaderTitleFinal{
+    color: #2c2c2c;
+    position: relative;
+    letter-spacing: .05em;
+    text-shadow:
+            4px 4px 0px #d5d5d5,
+            7px 7px 0px rgba(0, 0, 0, 0.2);
+    transform: translate(0px,0px);
+    transition-duration: 1s;
+}

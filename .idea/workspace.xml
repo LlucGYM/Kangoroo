@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cf08ca1-8e8c-4916-bba9-26fcfb8bfd54" name="Default Changelist" comment="PHP enviar mail">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CSS/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/CSS/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Componentes/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Componentes/NavBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Componentes/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Componentes/header.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yp5XdfYP5treiHiq58FE5F3QYk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dossier TFG Lucas Garrido Antolino/Projecte" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lucas\OneDrive\Escritorio\kanguro\src\Componentes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lucas\OneDrive\Escritorio\Kanguro2\kanguro\src" />
+      <recent name="C:\Users\Lucas\OneDrive\Escritorio\kanguro\src" />
+      <recent name="C:\Users\Lucas\OneDrive\Escritorio\kanguro\src\Componentes" />
+      <recent name="C:\Users\Lucas\OneDrive\Escritorio\kanguro\src\imagenes" />
+      <recent name="C:\Users\Lucas\OneDrive\Escritorio\kanguro\public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cf08ca1-8e8c-4916-bba9-26fcfb8bfd54" name="Default Changelist" comment="" />
+      <created>1632935729866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632935729866</updated>
+      <workItem from="1632935731038" duration="5831000" />
+      <workItem from="1632953567050" duration="335000" />
+      <workItem from="1633096882518" duration="11311000" />
+      <workItem from="1633258742965" duration="1998000" />
+      <workItem from="1634052760329" duration="8265000" />
+      <workItem from="1634396993090" duration="8311000" />
+      <workItem from="1635778947512" duration="4590000" />
+      <workItem from="1635783605331" duration="924000" />
+      <workItem from="1637000620431" duration="2076000" />
+      <workItem from="1637605473043" duration="3969000" />
+      <workItem from="1637701007822" duration="6760000" />
+      <workItem from="1637777725677" duration="4203000" />
+      <workItem from="1637877271069" duration="655000" />
+      <workItem from="1638203700915" duration="6218000" />
+      <workItem from="1638380205414" duration="780000" />
+      <workItem from="1639149650635" duration="1271000" />
+      <workItem from="1639220784917" duration="4834000" />
+      <workItem from="1639756221809" duration="4997000" />
+      <workItem from="1641062734113" duration="1879000" />
+      <workItem from="1641230630521" duration="645000" />
+      <workItem from="1641420111244" duration="414000" />
+      <workItem from="1642540859112" duration="533000" />
+    </task>
+    <task id="LOCAL-00001" summary="footer prueba">
+      <created>1633108939299</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633108939300</updated>
+    </task>
+    <task id="LOCAL-00002" summary="footer prueba">
+      <created>1633108948138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633108948138</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Domingo mañana 03/10/21">
+      <created>1633261611965</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1633261611965</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Domingo mañana 03/10/21">
+      <created>1634064301592</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634064301592</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lunes 01/11/21">
+      <created>1635783380578</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635783380578</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Lunes 22/11/21">
+      <created>1637611018539</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1637611018539</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Martes 23/11/21">
+      <created>1637707824467</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1637707824467</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Miercoles 24/11/21">
+      <created>1637791260437</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1637791260437</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Lunes 29/11/21">
+      <created>1638210392096</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1638210392096</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Letra más grande">
+      <created>1639222374165</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1639222374165</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Background tamaño letra">
+      <created>1639224747505</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1639224747505</updated>
+    </task>
+    <task id="LOCAL-00012" summary="FormularioKanguro">
+      <created>1639225762036</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1639225762036</updated>
+    </task>
+    <task id="LOCAL-00013" summary="PHP enviar mail">
+      <created>1639761227054</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1639761227054</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Projecto Inicial" />
+    <MESSAGE value="footer prueba" />
+    <MESSAGE value="Domingo mañana 03/10/21" />
+    <MESSAGE value="Lunes 01/11/21" />
+    <MESSAGE value="Lunes 22/11/21" />
+    <MESSAGE value="Martes 23/11/21" />
+    <MESSAGE value="Miercoles 24/11/21" />
+    <MESSAGE value="Lunes 29/11/21" />
+    <MESSAGE value="Letra más grande" />
+    <MESSAGE value="Background tamaño letra" />
+    <MESSAGE value="FormularioKanguro" />
+    <MESSAGE value="PHP enviar mail" />
+    <option name="LAST_COMMIT_MESSAGE" value="PHP enviar mail" />
+  </component>
+</project>
